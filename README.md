@@ -28,29 +28,17 @@ Help people with chronic health conditions manage medications, reminders, appoin
 
 ## Problem
 
-People with chronic conditions often struggle with:
+Over the past decade, healthcare has become increasingly digitized. From online appointment booking to digital prescriptions and patient portals, technology has transformed how we interact with medical systems. Yet for people living with chronic conditions, daily health management still relies heavily on memory, scattered tools, and manual tracking. Remembering medications, coordinating appointments, monitoring symptoms, and communicating with providers often happens across multiple apps, paper notes, pill organizers, and phone alarms. As life becomes busier and routines more unpredictable, managing health can begin to feel like a second full-time job.
 
-* remembering medications
-* tracking what they actually took
-* managing doctor appointments
-* communicating quickly with providers
+## Understanding the Problem
 
-## Why it matters
+Managing a chronic condition requires consistent daily action taking medications, tracking symptoms, booking appointments, and communicating with providers. Yet these tasks are often spread across multiple tools like phone alarms, paper notes, pill organizers, and separate hospital portals. This fragmentation increases mental load and makes it easy to forget important steps.
+Young adults struggle with inconsistent routines, older adults face accessibility barriers, and caregivers experience stress without clear visibility into a loved one’s adherence. Missed doses and delayed communication can lead to anxiety, worsening symptoms, and preventable complications.
+The core issue is not simply forgetfulness, it is the lack of flexible, engaging, and accessible tools designed around real-life behaviors.
 
-Missed medications and missed appointments lead to:
+## Our Mission
 
-* worse health outcomes
-* higher stress
-* increased hospital visits
-
-## Solution
-
-A Health Companion Super App that supports:
-
-* medication reminders
-* adherence tracking
-* appointment scheduling
-* provider messaging
+At Health Companion, our mission is to simplify chronic health management through thoughtful, human-centered design. We aim to create a super app that brings medication reminders, adherence tracking, appointment scheduling, and provider communication into one accessible, calming platform. By prioritizing flexibility, clarity, and accessibility, the Health Companion Super App empowers patients and caregivers to feel organized, supported, and in control of their health — without feeling overwhelmed.
 
 ---
 
@@ -58,12 +46,10 @@ A Health Companion Super App that supports:
 
 ## Research Method
 
-### Primary Research
-
-**1) Online Survey (10+ participants)**
+Online Survey (10+ participants)**
 Purpose: understand habits and pain points quickly
 
-Ask questions like:
+Types of questions that was asked:
 
 * How many medications do you take daily?
 * What tools do you use now (alarm, paper, app)?
@@ -99,10 +85,12 @@ Raw data (Name replaced to “Person” for privacy)
 * 30% miss medication 3+ times/week.
 * 20% of respondents were caregivers managing someone else's health.
 * The average meds/day among patients is 2.4.
+  
+<img width="640" height="480" alt="weekly_miss_rate" src="https://github.com/user-attachments/assets/432a88b8-9f3b-4bc8-9fa6-a73ac1887cd4" />
 
 ---
 
-## Most common challenges (Pain Points)
+## Most common challenges 
 
 1. **Inconsistent Routines**
 2. **App Engagement**
@@ -124,26 +112,34 @@ Raw data (Name replaced to “Person” for privacy)
 
 # 3. Personas
 
-<img width="1024" height="1536" alt="maya persona" src="https://github.com/user-attachments/assets/70577298-2c57-45db-afda-dde0e2a48468" />
+## Persona 1: Maya
+
+Maya is a 23-year-old marketing assistant and part-time student living in Toronto. She has ADHD, anxiety, and mild asthma, and is juggling a busy life with work and classes. Despite her tech-savviness and high engagement with digital tools like TikTok and Notion, Maya struggles with maintaining consistent routines, especially when it comes to taking her medications. She is looking for a simple and engaging app that helps her stay on track with her health, without feeling like a clinical tool.
+
+
+<img width="768" height="1152" alt="maya persona" src="https://github.com/user-attachments/assets/70577298-2c57-45db-afda-dde0e2a48468" />
 
 
 ---
+## Persona 2: Jay
+
+Jay is a 20-year-old university student majoring in engineering. He lives at home with his 74-year-old grandmother, Lola, whom he cares for as her primary caregiver. Jay manages Lola’s medication for Type 2 Diabetes and early-stage dementia, but feels overwhelmed juggling his studies and taking care of Lola's health. He wishes there was an easier way to remotely monitor her medication adherence and manage appointments, helping reduce his stress and mental load.
 
 
-<img width="1024" height="1536" alt="jay" src="https://github.com/user-attachments/assets/242d7ed1-1088-4635-8535-64e39fef2420" />
+<img width="768" height="1152" alt="jay" src="https://github.com/user-attachments/assets/242d7ed1-1088-4635-8535-64e39fef2420" />
 
 ---
 
 # 4. User Journey Maps
 
-<img width="1024" height="1536" alt="f552d885-c8e9-4087-8681-b34eff941b91" src="https://github.com/user-attachments/assets/452dce66-0b13-42e7-b221-140262e5ce7d" />
+<img width="768" height="1152" alt="f552d885-c8e9-4087-8681-b34eff941b91" src="https://github.com/user-attachments/assets/452dce66-0b13-42e7-b221-140262e5ce7d" />
 
 
 ---
 
 ## Journey Map: Jay (Caregiver Monitoring)
 
-<img width="1536" height="1024" alt="jay journey map" src="https://github.com/user-attachments/assets/f20c8691-d3c0-4eb3-9725-e66c1c811c4c" />
+<img width="768" height="1152" alt="jay journey map" src="https://github.com/user-attachments/assets/f20c8691-d3c0-4eb3-9725-e66c1c811c4c" />
 
 ---
 
@@ -193,11 +189,11 @@ Raw data (Name replaced to “Person” for privacy)
 
 ### Flow 1: Add Medication
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/64630ab7-38fc-453a-bc9a-4ca8faa719e3" />
+<img width="1183" height="505" alt="Picture1" src="https://github.com/user-attachments/assets/cf1311a9-085b-4de3-b3cf-36fcda3c976e" />
 
 ### Flow 2: Receive Reminder & Confirm Taken
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8ea20fbf-01a2-4767-867a-ee5eb24e268f" />
+<img width="1191" height="465" alt="Picture2" src="https://github.com/user-attachments/assets/a7862132-43ec-4143-be37-5551ef5d72af" />
 
 ---
 
