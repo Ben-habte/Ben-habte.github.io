@@ -225,6 +225,7 @@ Health management should feel calming, not clinical.
 ## Color Palette
 
 Calm blue, success green, gentle orange, soft neutral background.
+![pastel-tide-sunrise-green-blue-orange-color-palette](https://github.com/user-attachments/assets/d16e5f1c-79b3-4985-8961-744e3cd0d520)
 
 ## Typography
 
