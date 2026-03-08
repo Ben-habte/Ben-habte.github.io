@@ -3,7 +3,7 @@
 **Link to Published UX/UI Case Study:**  
 https://medium.com/@benjgv/ux-ui-case-study-health-companion-super-app-9189157dfd77?postPublishedType=repub
 
-Designed to help patients and caregivers manage medications, reminders, appointments, and provider communication. Includes research (10+ users), personas, journey maps, wireframes, prototype, usability testing, iterations, and accessibility-focused UI decisions.
+Designed to help patients and caregivers manage medications, reminders, appointments, and provider communication. Includes research, personas, journey maps, wireframes, prototype, usability testing, iterations, and accessibility-focused UI decisions.
 
 ---
 
